@@ -1,3 +1,6 @@
 yes it's day 2
-it's day 3 & day 4 day 5 day 6 DAY 7 DAY 8
+it's day 3 
+day 4 & 5-strings_practice.py
+conditional_statements.py
+practice_problems.py
 
